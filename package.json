@@ -26,7 +26,7 @@
     "@nestjs/platform-express": "^6.7.2",
     "@types/nodemailer": "^6.4.0",
     "mongoose": "^5.8.7",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
